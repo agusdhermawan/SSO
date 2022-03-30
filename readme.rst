@@ -68,3 +68,7 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+How to use :
+- Copy/Clone to your server Local server or Online server(Hosting) 
+- Happy learn
